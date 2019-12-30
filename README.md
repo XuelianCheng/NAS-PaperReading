@@ -19,4 +19,4 @@ Notes for daily reading papers
 | No. | Abb.| title | pdf | code | Brief| 
 | :-: | :-: |:-: | :-: | :-: | :-:|
 |1. |ENAS |Efficient Neural Architecture Search via Parameter Sharing|[ICML 2018](https://arxiv.org/pdf/1806.09055.pdf) | [tensorflow](https://github.com/melodyguan/enas); [Pytorch](https://github.com/carpedm20/ENAS-pytorch) | Architecture Search |
-|2. |SMASH |Efficient Neural ASMASH: One-Shot Model Architecture Search through HyperNetworks|[ICLR 2018](https://arxiv.org/abs/1708.05344) | [Pytorch](https://github.com/ajbrock/SMASH) | Architecture Search |
+|2. |SMASH |SMASH: One-Shot Model Architecture Search through HyperNetworks|[ICLR 2018](https://arxiv.org/abs/1708.05344) | [Pytorch](https://github.com/ajbrock/SMASH) | Architecture Search |
