@@ -23,5 +23,4 @@ Notes for daily reading papers
 |3. |ProxylessNAS |ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware|[ICLR 2019](https://arxiv.org/pdf/1812.00332.pdf) | [Pytorch&Tensorflow](https://github.com/mit-han-lab/ProxylessNAS) | Architecture Search |
 |4. | |OPTIMIZATION AS A MODEL FOR FEW-SHOT LEARNING|[ICLR 2017](https://openreview.net/pdf?id=rJY0-Kcll) | [Pytorch](https://github.com/markdtw/meta-learning-lstm-pytorch);[Lua Torch](https://github.com/twitter/meta-learning-lstm)| Meta-learning; LSTM |
 |5. | DPC |Searching for Efficient Multi-Scale Architectures for Dense Image Prediction|[NIPS 2018](https://arxiv.org/pdf/1809.04184.pdf) | [Link](https://zhuanlan.zhihu.com/p/46350372)| NAS; AutoML |
-
-
+|6. | DPC |Matching Networks for One Shot Learning|[NIPS 2016](https://arxiv.org/pdf/1606.04080.pdf) | [Tensorflow](https://github.com/AntreasAntoniou/MatchingNetworks); [Pytorch](https://github.com/BoyuanJiang/matching-networks-pytorch)| One-Shot Learning; AutoML |
