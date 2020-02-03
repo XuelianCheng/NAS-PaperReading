@@ -13,6 +13,11 @@ Notes for daily reading papers
 |5. |IR-NAS |IR-NAS: Neural Architecture Search for Image Restoration |[arxiv](https://arxiv.org/pdf/1909.08228.pdf) | [NO] | Architecture Search;  o image denoising and de-raining |
 |6. |Auto-deeplab (hnasnet)|Auto-deeplab: Hierarchical neural architecture search for semantic image segmentation|[CVPR 2019 oral](https://arxiv.org/abs/1901.02985) | [Tensorflow](https://github.com/tensorflow/models/tree/master/research/deeplab); [Pytorch1](https://github.com/MenghaoGuo/AutoDeeplab); [Pytorch2](https://github.com/NoamRosenberg/AutoML) | Architecture Search |
 
+####NAS#####
+
+| No. | Abb.| title | pdf | code | Brief| 
+| :-: | :-: |:-: | :-: | :-: | :-:|
+|1. |NAS-FPN |NAS-FPN: Learning Scalable Feature Pyramid Architecture for Object Detection|[ICML 2018](https://arxiv.org/pdf/1904.07392.pdf) | [tensorflow](https://github.com/DetectionTeamUCAS/NAS_FPN_Tensorflow)| Architecture Search
 
 ### Unread
 
