@@ -17,7 +17,8 @@ Notes for daily reading papers
 
 | No. | Abb.| title | pdf | code | Brief| 
 | :-: | :-: |:-: | :-: | :-: | :-:|
-|1. |NAS-FPN |NAS-FPN: Learning Scalable Feature Pyramid Architecture for Object Detection|[ICML 2018](https://arxiv.org/pdf/1904.07392.pdf) | [tensorflow](https://github.com/DetectionTeamUCAS/NAS_FPN_Tensorflow)| Architecture Search
+|1. |NAS-FPN |NAS-FPN: Learning Scalable Feature Pyramid Architecture for Object Detection|[CVPR](https://arxiv.org/pdf/1904.07392.pdf) | [tensorflow](https://github.com/DetectionTeamUCAS/NAS_FPN_Tensorflow)| Architecture Search
+|2. |SpineNet |SpineNet: Learning Scale-Permuted Backbone for Recognition and Localization|[CVPR](https://arxiv.org/pdf/1912.05027v1.pdf) | -- | Architecture Search
 
 ### Unread
 
