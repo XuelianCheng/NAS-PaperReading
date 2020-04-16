@@ -1,10 +1,6 @@
 # NAS-PaperReading
 Notes for daily reading papers
 
-### 2020/04/16 Upates
-| Abb.| title | pdf | code | Brief| 
-| :-: |:-: | :-: | :-: | :-:|
-|UnNAS| Are Labels Necessary for Neural Architecture Search? |[arxiv](https://arxiv.org/pdf/2003.12056.pdf)|None|[Note1](https://blog.csdn.net/saturdaysunset/article/details/105352342) [Note2](https://www.zhihu.com/question/358468168)|
 
 ### One-shot NAS
 | Abb.| title | pdf | code | Brief| 
@@ -34,6 +30,7 @@ Notes for daily reading papers
 |5. | HiNAS |Memory-Efficient Hierarchical Neural Architecture Search for Image Denoising |[CVPR2020](https://arxiv.org/pdf/1909.08228.pdf) | [NO] | Architecture Search; image denoising and de-raining|
 |5.5|NAS-FCOS|NAS-FCOS: Fast Neural Architecture Search for Object Detection|[CVPR2020](https://arxiv.org/pdf/1906.04423.pdf) |[Pytorch](https://github.com/Lausannen/NAS-FCOS)|Object Detection; based on maskrcnn-benchmark|
 |6. |Auto-deeplab (hnasnet)|Auto-deeplab: Hierarchical neural architecture search for semantic image segmentation|[CVPR 2019 oral](https://arxiv.org/abs/1901.02985) | [Tensorflow](https://github.com/tensorflow/models/tree/master/research/deeplab); [Pytorch1](https://github.com/MenghaoGuo/AutoDeeplab); [Pytorch2](https://github.com/NoamRosenberg/AutoML) | Architecture Search |
+|7. |UnNAS| Are Labels Necessary for Neural Architecture Search? |[arxiv](https://arxiv.org/pdf/2003.12056.pdf)|None|[Note1](https://blog.csdn.net/saturdaysunset/article/details/105352342) [Note2](https://www.zhihu.com/question/358468168)|
 
 ####NAS#####
 
