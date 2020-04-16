@@ -19,7 +19,6 @@ Notes for daily reading papers
 
 
 
-### Have Read
 
 | No. | Abb. | title | pdf | code | Brief| 
 | :-: | :-: |:-: | :-: | :-: | :-:|
