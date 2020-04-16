@@ -16,9 +16,8 @@ Notes for daily reading papers
 
 | Abb.| title | pdf | code | Brief| 
 | :-: |:-: | :-: | :-: | :-:|
-|AtomNAS|AtomNAS: Fine-Grained End-to-End Neural Architecture Search| [ICLR2020](https://arxiv.org/pdf/1912.09640.pdf)|[pytorch](https://github.com/meijieru/AtomNAS)| |
-|CRNAS|Computation Reallocation for Object Detection |[ICLR2020](https://openreview.net/forum?id=SkxLFaNKwB)| None|
-[Notes](https://mp.weixin.qq.com/s/Fjd6pGuJxCKcV8cPiLVw5g)|
+|AtomNAS| AtomNAS: Fine-Grained End-to-End Neural Architecture Search| [ICLR2020](https://arxiv.org/pdf/1912.09640.pdf)|[pytorch](https://github.com/meijieru/AtomNAS)| |
+|CRNAS| Computation Reallocation for Object Detection|[ICLR2020](https://openreview.net/forum?id=SkxLFaNKwB)|None|[Notes](https://mp.weixin.qq.com/s/Fjd6pGuJxCKcV8cPiLVw5g)|
 
 
 
