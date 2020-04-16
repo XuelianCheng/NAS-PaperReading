@@ -4,12 +4,13 @@ Notes for daily reading papers
 ### 2020/04/16 Upates
 | Abb.| title | pdf | code | Brief| 
 | :-: |:-: | :-: | :-: | :-:|
-|UnNAS| Are Labels Necessary for Neural Architecture Search? |[？](https://arxiv.org/pdf/2003.12056.pdf)|None|[Other](https://blog.csdn.net/saturdaysunset/article/details/105352342)|
+|UnNAS| Are Labels Necessary for Neural Architecture Search? |[？](https://arxiv.org/pdf/2003.12056.pdf)|None|[Note1](https://blog.csdn.net/saturdaysunset/article/details/105352342) [Note2](https://www.zhihu.com/question/358468168)|
 
 ### One-shot NAS
 | Abb.| title | pdf | code | Brief| 
 | :-: |:-: | :-: | :-: | :-:|
-|SPOS|Single path one-shot neural architecture search with uniform sampling | [CVPR](https://arxiv.org/abs/1904.00420)|[Pytorch](https://github.com/ShunLu91/Single-Path-One-Shot-NAS) | [Notes](https://www.zhihu.com/question/358468168)|
+|SPOS|Single path one-shot neural architecture search with uniform sampling | [CVPR](https://arxiv.org/abs/1904.00420)|[Pytorch](https://github.com/ShunLu91/Single-Path-One-Shot-NAS) | [megvii technology]()| 
+||Improving One-shot NAS by Suppressing the Posterior Fading|[ICLR2020](https://arxiv.org/pdf/1910.02543.pdf)|None|[SenseTime_Junjie Yan](http://valser.org/webinar/slide/slides/20191009/20191009-valse_automl_v3.pdf)|
 
 ### ICLR2020
 [Open reviwer Link](https://openreview.net/group?id=ICLR.cc/2020/Conference)
@@ -17,7 +18,8 @@ Notes for daily reading papers
 | Abb.| title | pdf | code | Brief| 
 | :-: |:-: | :-: | :-: | :-:|
 |AtomNAS| AtomNAS: Fine-Grained End-to-End Neural Architecture Search| [ICLR2020](https://arxiv.org/pdf/1912.09640.pdf)|[pytorch](https://github.com/meijieru/AtomNAS)| |
-|CRNAS| Computation Reallocation for Object Detection|[ICLR2020](https://openreview.net/forum?id=SkxLFaNKwB)|None|[Notes](https://mp.weixin.qq.com/s/Fjd6pGuJxCKcV8cPiLVw5g)|
+|CRNAS| Computation Reallocation for Object Detection|[ICLR2020](https://openreview.net/forum?id=SkxLFaNKwB)|None|[SenseTime](https://mp.weixin.qq.com/s/Fjd6pGuJxCKcV8cPiLVw5g)|
+||Evaluating The Search Phase of Neural Architecture Search|[ICLR2020](https://openreview.net/forum?id=H1loF2NFwr)|[pytorch](https://github.com/automl/RobustDARTS)|[]()|
 
 
 
