@@ -11,12 +11,12 @@ Code:[](https://github.com/ShunLu91/Single-Path-One-Shot-NAS)
 ### ICLR2020
 [Open reviwer Link](https://openreview.net/group?id=ICLR.cc/2020/Conference)
 
-Paper: AtomNAS: Fine-Grained End-to-End Neural Architecture Search [AtomNAS](https://arxiv.org/pdf/1912.09640.pdf)
-Code: [pytorch](https://github.com/meijieru/AtomNAS)
+| Abb.| title | pdf | code | Brief| 
+| :-: |:-: | :-: | :-: | :-:|
+|AtomNAS|AtomNAS: Fine-Grained End-to-End Neural Architecture Search| [ICLR2020](https://arxiv.org/pdf/1912.09640.pdf)|[pytorch](https://github.com/meijieru/AtomNAS)| |
 
-Paper: Computation Reallocation for Object Detection [CRNAS](https://openreview.net/forum?id=SkxLFaNKwB)
-Code:
-[Other](https://mp.weixin.qq.com/s/Fjd6pGuJxCKcV8cPiLVw5g)
+|CRNAS|Computation Reallocation for Object Detection |[ ](https://openreview.net/forum?id=SkxLFaNKwB)| |
+[Notes](https://mp.weixin.qq.com/s/Fjd6pGuJxCKcV8cPiLVw5g)|
 
 
 
