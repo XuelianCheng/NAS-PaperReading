@@ -8,6 +8,9 @@ Notes for daily reading papers
 |SPOS|Single path one-shot neural architecture search with uniform sampling | [CVPR](https://arxiv.org/abs/1904.00420)|[Pytorch](https://github.com/ShunLu91/Single-Path-One-Shot-NAS) | [megvii technology]()| 
 ||Improving One-shot NAS by Suppressing the Posterior Fading|[ICLR2020](https://arxiv.org/pdf/1910.02543.pdf)|None|[SenseTime_Junjie Yan](http://valser.org/webinar/slide/slides/20191009/20191009-valse_automl_v3.pdf)|
 
+
+####Have Read####
+
 ### ICLR2020
 [Open reviwer Link](https://openreview.net/group?id=ICLR.cc/2020/Conference)
 
@@ -31,7 +34,6 @@ Notes for daily reading papers
 |6. |Auto-deeplab (hnasnet)|Auto-deeplab: Hierarchical neural architecture search for semantic image segmentation|[CVPR 2019 oral](https://arxiv.org/abs/1901.02985) | [Tensorflow](https://github.com/tensorflow/models/tree/master/research/deeplab); [Pytorch1](https://github.com/MenghaoGuo/AutoDeeplab); [Pytorch2](https://github.com/NoamRosenberg/AutoML) | Architecture Search |
 |7. |UnNAS| Are Labels Necessary for Neural Architecture Search? |[arxiv](https://arxiv.org/pdf/2003.12056.pdf)|None|[Note1](https://blog.csdn.net/saturdaysunset/article/details/105352342) [Note2](https://www.zhihu.com/question/358468168)|
 
-####NAS#####
 
 | No. | Abb.| title | pdf | code | Brief| 
 | :-: | :-: |:-: | :-: | :-: | :-:|
