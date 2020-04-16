@@ -19,7 +19,7 @@ Notes for daily reading papers
 | :-: |:-: | :-: | :-: | :-:|
 |AtomNAS| AtomNAS: Fine-Grained End-to-End Neural Architecture Search| [ICLR2020](https://arxiv.org/pdf/1912.09640.pdf)|[pytorch](https://github.com/meijieru/AtomNAS)| |
 |CRNAS| Computation Reallocation for Object Detection|[ICLR2020](https://openreview.net/forum?id=SkxLFaNKwB)|None|[SenseTime](https://mp.weixin.qq.com/s/Fjd6pGuJxCKcV8cPiLVw5g)|
-||Evaluating The Search Phase of Neural Architecture Search|[ICLR2020](https://openreview.net/forum?id=H1loF2NFwr)|[pytorch](https://github.com/automl/RobustDARTS)|[]()|
+||Evaluating The Search Phase of Neural Architecture Search|[ICLR2020](https://openreview.net/forum?id=H1loF2NFwr)|[pytorch](https://github.com/automl/RobustDARTS)|[EPFL]()|
 
 
 
@@ -41,6 +41,7 @@ Notes for daily reading papers
 | :-: | :-: |:-: | :-: | :-: | :-:|
 |1. |NAS-FPN |NAS-FPN: Learning Scalable Feature Pyramid Architecture for Object Detection|[CVPR](https://arxiv.org/pdf/1904.07392.pdf) | [tensorflow](https://github.com/DetectionTeamUCAS/NAS_FPN_Tensorflow)| Architecture Search
 |2. |SpineNet |SpineNet: Learning Scale-Permuted Backbone for Recognition and Localization|[CVPR](https://arxiv.org/pdf/1912.05027v1.pdf) | -- | Architecture Search
+|3. | XNAS| XNAS: Neural Architecture Searchwith Expert Advice |[NeurIPS 2019](https://arxiv.org/pdf/1906.08031.pdf)| [Pytorch](https://github.com/NivNayman/XNAS) |[Poster](https://postersession.ai/poster/xnas-neural-architecture-search-with-exp/)|
 
 | No. | Abb.| title | pdf | code | Brief| 
 | :-: | :-: |:-: | :-: | :-: | :-:|
