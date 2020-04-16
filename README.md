@@ -1,13 +1,22 @@
 # NAS-PaperReading
 Notes for daily reading papers
 
+### 2020/04/16
+Paper: [Are Labels Necessary for Neural Architecture Search?](https://arxiv.org/pdf/2003.12056.pdf)
+Code:
+Other:
+### One-shot NAS
+Paper：SPOS [Single path one-shot neural architecture search with uniform sampling](https://arxiv.org/abs/1904.00420)
+Code:[](https://github.com/ShunLu91/Single-Path-One-Shot-NAS)
 ### ICLR2020
 [Open reviwer Link](https://openreview.net/group?id=ICLR.cc/2020/Conference)
 
-Paper: [AtomNAS: Fine-Grained End-to-End Neural Architecture Search](https://arxiv.org/pdf/1912.09640.pdf)
-code: [pytorch](https://github.com/meijieru/AtomNAS)
+Paper: AtomNAS [AtomNAS: Fine-Grained End-to-End Neural Architecture Search](https://arxiv.org/pdf/1912.09640.pdf)
+Code: [pytorch](https://github.com/meijieru/AtomNAS)
 
-Paper:
+Paper: CRNAS [Computation Reallocation for Object Detection](https://openreview.net/forum?id=SkxLFaNKwB)
+Code:
+[Other](https://mp.weixin.qq.com/s/Fjd6pGuJxCKcV8cPiLVw5g)
 
 ### Have Read
 
