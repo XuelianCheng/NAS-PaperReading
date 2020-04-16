@@ -1,25 +1,26 @@
 # NAS-PaperReading
 Notes for daily reading papers
 
-### 2020/04/16
-Paper: [Are Labels Necessary for Neural Architecture Search?](https://arxiv.org/pdf/2003.12056.pdf)
+### 2020/04/16 Upates
+Paper: Are Labels Necessary for Neural Architecture Search? [UnNAS](https://arxiv.org/pdf/2003.12056.pdf)
 Code:
-Other:
+[Other](https://blog.csdn.net/saturdaysunset/article/details/105352342)
 ### One-shot NAS
-Paper：SPOS [Single path one-shot neural architecture search with uniform sampling](https://arxiv.org/abs/1904.00420)
+Paper：Single path one-shot neural architecture search with uniform sampling [SPOS](https://arxiv.org/abs/1904.00420)
 Code:[](https://github.com/ShunLu91/Single-Path-One-Shot-NAS)
 ### ICLR2020
 [Open reviwer Link](https://openreview.net/group?id=ICLR.cc/2020/Conference)
 
-Paper: AtomNAS [AtomNAS: Fine-Grained End-to-End Neural Architecture Search](https://arxiv.org/pdf/1912.09640.pdf)
+Paper: AtomNAS: Fine-Grained End-to-End Neural Architecture Search [AtomNAS](https://arxiv.org/pdf/1912.09640.pdf)
 Code: [pytorch](https://github.com/meijieru/AtomNAS)
 
-Paper: CRNAS [Computation Reallocation for Object Detection](https://openreview.net/forum?id=SkxLFaNKwB)
+Paper: Computation Reallocation for Object Detection [CRNAS](https://openreview.net/forum?id=SkxLFaNKwB)
 Code:
 [Other](https://mp.weixin.qq.com/s/Fjd6pGuJxCKcV8cPiLVw5g)
 
-### Have Read
 
+
+### Have Read
 
 | No. | Abb. | title | pdf | code | Brief| 
 | :-: | :-: |:-: | :-: | :-: | :-:|
@@ -36,8 +37,6 @@ Code:
 | :-: | :-: |:-: | :-: | :-: | :-:|
 |1. |NAS-FPN |NAS-FPN: Learning Scalable Feature Pyramid Architecture for Object Detection|[CVPR](https://arxiv.org/pdf/1904.07392.pdf) | [tensorflow](https://github.com/DetectionTeamUCAS/NAS_FPN_Tensorflow)| Architecture Search
 |2. |SpineNet |SpineNet: Learning Scale-Permuted Backbone for Recognition and Localization|[CVPR](https://arxiv.org/pdf/1912.05027v1.pdf) | -- | Architecture Search
-
-### Unread
 
 | No. | Abb.| title | pdf | code | Brief| 
 | :-: | :-: |:-: | :-: | :-: | :-:|
