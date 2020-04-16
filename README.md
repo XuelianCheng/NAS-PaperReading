@@ -9,7 +9,7 @@ Notes for daily reading papers
 ### One-shot NAS
 | Abb.| title | pdf | code | Brief| 
 | :-: |:-: | :-: | :-: | :-:|
-|SPOS|Single path one-shot neural architecture search with uniform sampling | [SPOS](https://arxiv.org/abs/1904.00420)|[CVPR](https://github.com/ShunLu91/Single-Path-One-Shot-NAS)| None | [Notes](https://www.zhihu.com/question/358468168)|
+|SPOS|Single path one-shot neural architecture search with uniform sampling | [CVPR](https://arxiv.org/abs/1904.00420)|[Pytorch](https://github.com/ShunLu91/Single-Path-One-Shot-NAS) | [Notes](https://www.zhihu.com/question/358468168)|
 
 ### ICLR2020
 [Open reviwer Link](https://openreview.net/group?id=ICLR.cc/2020/Conference)
