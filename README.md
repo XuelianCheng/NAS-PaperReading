@@ -20,8 +20,10 @@ Notes for daily reading papers
 |CRNAS| Computation Reallocation for Object Detection|[ICLR2020](https://openreview.net/forum?id=SkxLFaNKwB)|None|[SenseTime](https://mp.weixin.qq.com/s/Fjd6pGuJxCKcV8cPiLVw5g)|
 ||Evaluating The Search Phase of Neural Architecture Search|[ICLR2020](https://openreview.net/forum?id=H1loF2NFwr)|[pytorch](https://github.com/automl/RobustDARTS)|[EPFL]()|
 
-
-
+### ICLR2019
+| Abb.| title | pdf | code | Brief| 
+| :-: |:-: | :-: | :-: | :-:|
+|SNAS| SNAS: STOCHASTIC NEURAL ARCHITECTURE SEARCH| [ICLR2019](https://arxiv.org/pdf/1812.09926.pdf)|[pytorch](https://github.com/SNAS-Series/SNAS-Series)| |
 
 | No. | Abb. | title | pdf | code | Brief| 
 | :-: | :-: |:-: | :-: | :-: | :-:|
